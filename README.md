@@ -1,11 +1,11 @@
 # CyberSecurityRoadmap
 
-## Resources
-1. Networking Book - Data Communications and Networking Forth edition By Forouzan
-2. Basic Linux - Most commonly used command
-3. Web security
-    * The web application Hacker's Handbook 
-    * Real world Bug Hunting A field to Web hacking
+## Resources:
+   1. Networking Book - Data Communications and Networking Forth edition By Forouzan
+   2. Basic Linux - Most commonly used command
+   3. Web security
+      * The web application Hacker's Handbook 
+      * Real world Bug Hunting A field to Web hacking
     
     
     
